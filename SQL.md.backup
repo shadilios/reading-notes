@@ -1,0 +1,90 @@
+# Summary:
+sql is used to manage data in tables, whether store it in the database or retrie it and use it with our code.  
+
+<hr>
+
+# My answers:
+
+The following will have my tasks answered, with the code I worte on each task.
+
+<hr>
+
+##### Lesson 1
+
+SELECT title FROM movies;  
+SELECT director FROM movies;   
+SELECT title, director FROM movies;  
+SELECT title, year FROM movies;  
+SELECT * FROM movies;  
+
+<hr>
+
+##### Lesson 2
+
+SELECT * FROM Movies where ID = 6;  
+SELECT * FROM Movies where Year BETWEEN 2000 AND 2010;  
+SELECT * FROM Movies where Year NOT BETWEEN 2000 AND 2010;  
+SELECT title, year FROM movies WHERE year <= 2003;  
+
+
+
+<hr>
+
+##### Lesson 3
+
+SELECT title, director FROM movies WHERE title LIKE "Toy Story%";  
+SELECT * FROM movies where director LIKE "John Lasseter%";  
+SELECT * FROM movies where director NOT LIKE "John Lasseter%";  
+SELECT * FROM movies where title LIKE "Wall-%"  
+
+<hr>
+
+##### Lesson 4
+
+SELECT DISTINCT director FROM movies ORDER BY director ASC;  
+SELECT * FROM movies ORDER BY year DESC LIMIT 4;  
+SELECT * FROM movies ORDER BY Title ASC LIMIT 5;  
+SELECT Title FROM movies ORDER BY Title ASC LIMIT 5 OFFSET 5;  
+
+<hr>
+
+##### Lesson 5
+
+SELECT * FROM north_american_cities WHERE Country Like "Canada" ;  
+SELECT * FROM north_american_cities WHERE Country Like "United States" ORDER BY Latitude DESC;  
+
+SELECT city, longitude FROM north_american_cities
+WHERE longitude < -87.629798
+ORDER BY longitude ASC;  
+
+SELECT city, population FROM north_american_cities
+WHERE country LIKE "United States"
+ORDER BY population DESC
+LIMIT 2 OFFSET 2;  
+
+
+<hr>
+
+##### Lesson 6
+
+lesson 6
+SELECT title, domestic_sales, international_sales 
+FROM movies
+  JOIN boxoffice
+    ON movies.id = boxoffice.movie_id;  
+
+SELECT title, domestic_sales, international_sales
+FROM movies
+  JOIN boxoffice
+    ON movies.id = boxoffice.movie_id
+WHERE international_sales > domestic_sales;  
+
+SELECT title, rating
+FROM movies
+  JOIN boxoffice
+    ON movies.id = boxoffice.movie_id
+ORDER BY rating DESC;  
+
+
+<hr>
+
