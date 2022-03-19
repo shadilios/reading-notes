@@ -14,7 +14,7 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Practice-in-the-terminal-Readme](https://github.com/shadilios/reading-notes/blob/main/Practice%20in%20the%20Terminal.md)  
 [SQL-Readme](https://github.com/shadilios/reading-notes/blob/main/SQL.md)  
 [Unit-Tests-&-Documentation-Readme](https://github.com/shadilios/reading-notes/blob/main/Unit%20Tests%20%26%20Documentation.md)  
-[Expcetion-Handling-And-Debugging](https://github.com/shadilios/reading-notes/blob/main/Exception-Handling-And-Debugging.md)
+[Expcetion-Handling-And-Debugging](https://github.com/shadilios/reading-notes/blob/main/Exception-Handling-And-Debugging.md)  
 [System I.O](https://github.com/shadilios/reading-notes/blob/main/System-IO.md)
 
 
