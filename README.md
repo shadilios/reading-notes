@@ -15,6 +15,7 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [SQL-Readme](https://github.com/shadilios/reading-notes/blob/main/SQL.md)  
 [Unit-Tests-&-Documentation-Readme](https://github.com/shadilios/reading-notes/blob/main/Unit%20Tests%20%26%20Documentation.md)  
 [Expcetion-Handling-And-Debugging](https://github.com/shadilios/reading-notes/blob/main/Exception-Handling-And-Debugging.md)  
-[System I.O](https://github.com/shadilios/reading-notes/blob/main/System-IO.md)
+[System I.O](https://github.com/shadilios/reading-notes/blob/main/System-IO.md)  
+[Classes & Objects](https://github.com/shadilios/reading-notes/blob/main/Classes%20%26%20Objects.md)
 
 
