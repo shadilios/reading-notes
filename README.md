@@ -17,6 +17,8 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Expcetion-Handling-And-Debugging](https://github.com/shadilios/reading-notes/blob/main/Exception-Handling-And-Debugging.md)  
 [System I.O](https://github.com/shadilios/reading-notes/blob/main/System-IO.md)  
 [Classes & Objects](https://github.com/shadilios/reading-notes/blob/main/Classes%20%26%20Objects.md)  
-[OOP Principles](https://github.com/shadilios/reading-notes/blob/main/OOP%20Principles.md)
+[OOP Principles](https://github.com/shadilios/reading-notes/blob/main/OOP%20Principles.md)  
+  
+[Interface](https://github.com/shadilios/reading-notes/blob/main/Interface.md)
 
 
