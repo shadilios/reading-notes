@@ -19,7 +19,7 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Classes & Objects](https://github.com/shadilios/reading-notes/blob/main/Classes%20%26%20Objects.md)  
 [OOP Principles](https://github.com/shadilios/reading-notes/blob/main/OOP%20Principles.md)  
   
-[Interface](https://github.com/shadilios/reading-notes/blob/main/Interface.md)
+[Interface](https://github.com/shadilios/reading-notes/blob/main/Interface.md)  
 [Collections & ENUM](https://github.com/shadilios/reading-notes/blob/main/Collections%20&%20Enums.md)  
 
 
