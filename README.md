@@ -22,6 +22,6 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Interface](https://github.com/shadilios/reading-notes/blob/main/Interface.md)  
 [Collections & ENUM](https://github.com/shadilios/reading-notes/blob/main/Collections%20&%20Enums.md)  
 [LINQ](https://github.com/shadilios/reading-notes/blob/main/LINQ.md)  
-[Stack & Queue](https://github.com/shadilios/reading-notes/blob/main/Stacks_and_queues.md)
-
+[Stack & Queue](https://github.com/shadilios/reading-notes/blob/main/Stacks_and_queues.md)  
+[Database & ERDS](https://github.com/shadilios/reading-notes/blob/main/Introduction%20to%20Databases%20and%20ERDs.md)
 
