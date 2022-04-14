@@ -1,3 +1,5 @@
+[Main Readme](https://github.com/shadilios/reading-notes/blob/main/README.md)
+
 # Entity Framework Core and APIs
 
 ![](http://social.technet.microsoft.com/wiki/cfs-file.ashx/__key/communityserver-wikis-components-files/00-00-00-00-05/2110.Capture10.PNG)
