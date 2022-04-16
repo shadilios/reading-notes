@@ -18,7 +18,7 @@ A way to measure the time performance while taking into consideration worst case
 Example: If we loop through each element of an array, then the worst case scenario will be O(n) where N is the number of elements inside the array.
 
 
-
+<br><hr><br>
 ### Terminology:
 
 * Node: A single element inside our linked list that holds our data, think of it as an element inside the array that holds a string or an integer.
