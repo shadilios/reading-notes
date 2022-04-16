@@ -6,10 +6,8 @@
 
 <br><hr><br>
 
-### What is an Interface?
-It's something like a class, but completley different.
-A building look that's used like a mold to shape our classes, but never contain Function details or variables.
-Only declerations are allowed.
+### What is a Linked list?
+A type of collection that we can store any data in, it's strength come in its ability to store & manipulate its data at runtime, but its weakness is the how slow it is to retrieve data from.
 
 
 <br><hr><br>
