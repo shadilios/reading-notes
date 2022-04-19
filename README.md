@@ -25,5 +25,6 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [LINQ](https://github.com/shadilios/reading-notes/blob/main/LINQ.md)  
 [Stack & Queue](https://github.com/shadilios/reading-notes/blob/main/Stacks_and_queues.md)  
 [Database & ERDS](https://github.com/shadilios/reading-notes/blob/main/Introduction%20to%20Databases%20and%20ERDs.md)  
-[Entity Framework & APIs](https://github.com/shadilios/reading-notes/blob/main/Entity%20Framework%20Core%20and%20APIs.md)
+[Entity Framework & APIs](https://github.com/shadilios/reading-notes/blob/main/Entity%20Framework%20Core%20and%20APIs.md)  
+[Trees](https://github.com/shadilios/reading-notes/blob/main/Trees.md)  
 
