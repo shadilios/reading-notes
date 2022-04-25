@@ -27,4 +27,6 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Database & ERDS](https://github.com/shadilios/reading-notes/blob/main/Introduction%20to%20Databases%20and%20ERDs.md)  
 [Entity Framework & APIs](https://github.com/shadilios/reading-notes/blob/main/Entity%20Framework%20Core%20and%20APIs.md)  
 [Trees](https://github.com/shadilios/reading-notes/blob/main/Trees.md)  
+[Refactoring with DTOs](https://github.com/shadilios/reading-notes/blob/main/Refactoring%20with%20DTOs.md)  
+[Testing, Swagger & Deployments]()
 
