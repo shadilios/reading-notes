@@ -29,5 +29,7 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Trees](https://github.com/shadilios/reading-notes/blob/main/Trees.md)  
 [Refactoring with DTOs](https://github.com/shadilios/reading-notes/blob/main/Refactoring%20with%20DTOs.md)  
 [Testing, Swagger & Deployments]()  
-[Identity & Authentication](https://github.com/shadilios/reading-notes/edit/main/Identity-Authentication.md)
+[Identity & Authentication](https://github.com/shadilios/reading-notes/edit/main/Identity-Authentication.md)  
+<br>
+27. [MVC Forms](https://github.com/shadilios/reading-notes/blob/main/MVC-forms.md)
 
