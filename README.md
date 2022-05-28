@@ -31,5 +31,6 @@ This [repositry](https://github.com/shadilios/reading-notes) will be used to sum
 [Testing, Swagger & Deployments]()  
 [Identity & Authentication](https://github.com/shadilios/reading-notes/edit/main/Identity-Authentication.md)  
 <br>
+26. [MVC](https://github.com/shadilios/reading-notes/blob/main/MVC.md)  
 27. [MVC Forms](https://github.com/shadilios/reading-notes/blob/main/MVC-forms.md)
 
