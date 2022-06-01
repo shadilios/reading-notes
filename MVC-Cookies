@@ -2,7 +2,7 @@
 
 A piece of data that the server sends to the user's browser.  
 
-[img](https://www.elegantthemes.com/blog/wp-content/uploads/2020/10/shutterstock_1295870983.png)  
+
 
 ## Usage of cookies
 1. Session Management.
@@ -27,6 +27,39 @@ if it's marked with the Secure attribute and was sent from a secure origin. This
 
 
 
-![img](https://khalilstemmler.com/img/blog/data-structures/hash-tables/hash-table.png)
 
-##
+
+## Hash
+
+The result of algorithm taking strings and changing them for security.
+
+## Bucket
+
+The contents of each index inside the array, each one could be multiple values.
+
+
+## Collision
+
+When more than one key gets hashed to the same location in the bucket.
+
+
+
+
+
+## Internal Methods
+
+1. Add()  
+
+This methods allows you to add a new key/value to the hash table.
+
+2. Find()
+
+Search for a key/value in the hash table
+
+3. Contain()
+
+Check if a hash is contained within a table.
+
+4. GetHash()  
+
+Takes in a string and returns the place (index) where it's stored.
