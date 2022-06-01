@@ -2,13 +2,16 @@
 
 A piece of data that the server sends to the user's browser.  
 
+![img](https://www.elegantthemes.com/blog/wp-content/uploads/2020/10/shutterstock_1295870983.png)
 
+<br><hr><br>
 
 ## Usage of cookies
 1. Session Management.
 2. Personalization.
 3. Tracking.
 
+<br><hr><br>
 ## Prefixes
 
 1. __Host-
@@ -22,10 +25,11 @@ If a cookie name has this prefix, it's accepted in a Set-Cookie header only
 if it's marked with the Secure attribute and was sent from a secure origin. This is weaker than the __Host- prefix.
 
 
+<br><hr><br>
 # Hash Table
 
 
-
+![img](https://khalilstemmler.com/img/blog/data-structures/hash-tables/hash-table.png)
 
 
 
@@ -45,7 +49,7 @@ When more than one key gets hashed to the same location in the bucket.
 
 
 
-
+<br><hr><br>
 ## Internal Methods
 
 1. Add()  
